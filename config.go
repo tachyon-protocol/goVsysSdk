@@ -3,8 +3,8 @@ package goVsysSdk
 type NetType byte
 
 const (
-	Protocol          = "v.systems"
-	Api               = 3
+	//Protocol          = "v.systems"
+	//Api               = 3
 	addrVersion uint8 = 5
 
 	// Fee
